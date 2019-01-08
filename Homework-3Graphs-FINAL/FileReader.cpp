@@ -62,6 +62,7 @@ bool Read(const std::string &name, Graph &graph)
 		}
 	}
 	read.close();
+
 	return true;
 }
 
